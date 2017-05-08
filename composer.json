@@ -5,6 +5,7 @@
     "keywords": ["semantic", "text"],
     "license": "GPL-2.0",
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "Johannes Goslar",
@@ -17,8 +18,8 @@
         }
     },
     "require": {
-        "typo3/cms": "^8.7",
-        "nreach/t3base": "~1.0"
+        "nreach/t3base": "~1.0",
+        "yoast-seo-for-typo3/yoast_seo": "^1.0"
     },
     "extra": {
         "branch-alias": {
