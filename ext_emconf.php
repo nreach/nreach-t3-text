@@ -11,8 +11,8 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-    'title' => 't3text',
-    'description' => 't3text',
+    'title' => 'nreach_t3_text',
+    'description' => 'nreach package for advanced text semantics',
 	'category' => 'be',
 	'author' => '',
 	'author_email' => 'johnny@nreach.io',

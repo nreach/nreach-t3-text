@@ -1,5 +1,5 @@
 <?php
-namespace Nreach\T3Base\Form\Element;
+namespace Nreach\T3Text\Form\Element;
 
 use YoastSeoForTypo3\YoastSeo\Controller\ModuleController;
 
