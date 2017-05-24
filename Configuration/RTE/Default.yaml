@@ -1,0 +1,5 @@
+imports:
+    # Import our plugins
+  - { resource: "EXT:nreach_t3_text/Configuration/RTE/Plugin.yaml" }
+  # Import default RTE config (for example)
+  - { resource: "EXT:rte_ckeditor/Configuration/RTE/Default.yaml" }

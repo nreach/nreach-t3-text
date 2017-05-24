@@ -1,0 +1,5 @@
+imports:
+ # Import default t3kit config
+  - { resource: "EXT:theme_t3kit/Resources/Private/Extensions/RTE/Default.yaml" }
+ # Import our plugins
+  - { resource: "EXT:nreach_t3_text/Configuration/RTE/Plugin.yaml" }
