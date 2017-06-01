@@ -24,7 +24,7 @@ CKEDITOR.plugins.add( 'annotate', {
 				mountpoint.$.innerText = 'nreach';
 
 				parent.append(mountpoint);
-				var ui = new NreachUI(['Annotate'], mountpoint.$, {}, Remote);
+				var ui = new NreachUI(['Annotate'], mountpoint.$, {ckeditor: editor}, Remote);
 				console.log(ui);
 			});
 		});
